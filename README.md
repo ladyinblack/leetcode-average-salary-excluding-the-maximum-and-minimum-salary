@@ -2,7 +2,7 @@
 
 You are given an array of *unique* integers `salary` where `salary[i]` is the salary of the `i`<sup>`th`</sup> employee.
 
-Return **the average salary of employees excluding the minimum and maximum salary**.  Answers within `10^-5` of the actual answer will be accepted.
+Return **the average salary of employees excluding the minimum and maximum salary**.  Answers within `10`<sup>`-5`</sup> of the actual answer will be accepted.
 
 *Example 1:*
 ```
